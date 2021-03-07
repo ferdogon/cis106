@@ -15,14 +15,14 @@ I used the command **sudo apt search themes** to search then **apt search 'gtk t
 * How much disk space will the package utilize after installation?
 * 51.7 MB
 ## Question 2
-![Answer](/images/lab3question2.png)
-![Answer](/images/lab3question2part2.png)
+![Answer](../images/lab3question2.png)
+![Answer](../images/lab3question2part2.png)
 ## Question 3
-![Answer](/images/lab3question3.png)
+![Answer](../images/lab3question3.png)
 ## Question 4
-![Answer](/images/lab3question4.png)
-![Answer](/images/lab3question4part2.png)
+![Answer](../images/lab3question4.png)
+![Answer](../images/lab3question4part2.png)
 ## Question 5
-![Answer](/images/lab3question5.png)
-![Answer](/images/lab3question5part2.png)
-![Answer](/images/lab3question5part3.png)
+![Answer](../images/lab3question5.png)
+![Answer](../images/lab3question5part2.png)
+![Answer](../images/lab3question5part3.png)
