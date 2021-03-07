@@ -9,7 +9,8 @@
 
 Client-side Virtualization | Server-side virtualization
 ---|---|
-|![Client-Side Virtualization](https://rb.gy/rlb6ms)|![Server-side Virtualization](https://rb.gy/bgadpi)
+|![Client-Side Virtualization](https://rb.gy/rlb6ms)|![Server-side Virtualization](https://rb.gy/bgadpi)|
+
 For Client-side Virtualization the computer needs a ***hypervisor***.
 A ***hypervisor*** is a software that allows the management of virtual machines.
 There are 2 types of hypervisors.
