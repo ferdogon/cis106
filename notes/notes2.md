@@ -26,14 +26,19 @@ The link for the Hypervisor can be found [here](https://www.virtualbox.org/wiki/
 ### Steps to install and configure your Hypervisor with Ubuntu
 * Click the new button to open a dialog and name your virtual machine and if you are not sure about what you are doing use **Ubuntu** which will automatically choose the type and the version for you.
 ![1st step](https://brb.nci.nih.gov/seqtools/images/ubuntu/image005.png)
+
 Secondly you need to adjust your **memory(RAM)** to be allocated for this virtual machine.If you are not sure leave it to recommended for now and change it later.
 ![2nd step](https://brb.nci.nih.gov/seqtools/images/ubuntu/image007.png)
+
 After selecting the ram amount , Accept the default create a virtual hard disk drive option and click **"Create"**.
 ![3rd step](https://brb.nci.nih.gov/seqtools/images/ubuntu/createVM.png)
+
 Continue to accept the default 'VDI' drive file type and click 'Next' button.
 ![4th step](https://brb.nci.nih.gov/seqtools/images/ubuntu/image009.png)
+
 After this step you can either choose Dynamically allocated or fixed size but fixed size will give you a **better performance.**
 ![5th step](https://brb.nci.nih.gov/seqtools/images/ubuntu/image010.png)
+
 This step is to choose the memory which depends totally on your storage and preference but allocating less than **8GB** may cause system errors.:-1:
 ![6th step](https://brb.nci.nih.gov/seqtools/images/ubuntu/image011.png)
 
