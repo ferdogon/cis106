@@ -23,3 +23,6 @@ For installing ubuntu we need a Hypervisor(software that allows the management o
 To install ubuntu we will install **Oracle Virtualbox** which is an example of Type 2 Hypervisor.
 The link for the Hypervisor can be found [here](https://www.virtualbox.org/wiki/Downloads) or if that does not work here https://www.virtualbox.org/wiki/Downloads
 
+### Steps to install and configure your Hypervisor with Ubuntu
+* Click the new button to open a dialog and name your virtual machine and if you are not sure about what you are doing use **Ubuntu** which will automatically choose the type and the version for you.
+![1st step]()
