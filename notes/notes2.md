@@ -62,7 +62,7 @@ Back to Oracle VM VirtualBox Manager, click on the new Ubuntu virtual machine an
 ![8th step](https://brb.nci.nih.gov/seqtools/images/ubuntu/image030.png)
 
 After the installation is completed the system will prompt for a restart.After the restart Ubuntu is ready to use.:+1:
-###Virtualbox Extension Pack
+### Virtualbox Extension Pack
 Even though it is **not necessary** Virtualbox Extension Pack can be useful in many ways.
 VirtualBox Extension Pack is a binary package intended to extend the functionality of VirtualBox. The Extension pack adds many functionalities to the hypervisor  such as USB 2.0 and USB 3.0 devices, VirtualBox RDP, disk encryption, NVMe and PXE boot for Intel cards.
  The link for that can be found [here](https://www.virtualbox.org/wiki/Downloads)
