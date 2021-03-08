@@ -25,9 +25,11 @@ The link for the Hypervisor can be found [here](https://www.virtualbox.org/wiki/
 
 ### Steps to install and configure your Hypervisor with Ubuntu
 * Click the new button to open a dialog and name your virtual machine and if you are not sure about what you are doing use **Ubuntu** which will automatically choose the type and the version for you.
+* 
 ![1st step](https://brb.nci.nih.gov/seqtools/images/ubuntu/image005.png)
 
 Secondly you need to adjust your **memory(RAM)** to be allocated for this virtual machine.If you are not sure leave it to recommended for now and change it later.
+
 ![2nd step](https://brb.nci.nih.gov/seqtools/images/ubuntu/image007.png)
 
 After selecting the ram amount , Accept the default create a virtual hard disk drive option and click **"Create"**.
@@ -40,6 +42,7 @@ After this step you can either choose Dynamically allocated or fixed size but fi
 ![5th step](https://brb.nci.nih.gov/seqtools/images/ubuntu/image010.png)
 
 This step is to choose the memory which depends totally on your storage and preference but allocating less than **8GB** may cause system errors.:-1:
+
 ![6th step](https://brb.nci.nih.gov/seqtools/images/ubuntu/image011.png)
 
 
@@ -54,8 +57,10 @@ Back to Oracle VM VirtualBox Manager, click on the new Ubuntu virtual machine an
 * Click 'Continue' button
 * Make sure 'Erase disk and install Ubuntu' option is selected and click 'Install Now' button.
 * Ubuntu will ask you a few more questions. If the default is good, click 'Continue' button.
+
 * **After reaching the Who are you? question make sure to note the username and password that you will create and choose a secure password with characters and numbers included.**
 ![8th step](https://brb.nci.nih.gov/seqtools/images/ubuntu/image030.png)
+
 After the installation is completed the system will prompt for a restart.After the restart Ubuntu is ready to use.:+1:
 ###Virtualbox Extension Pack
 Even though it is **not necessary** Virtualbox Extension Pack can be useful in many ways.
