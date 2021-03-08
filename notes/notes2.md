@@ -20,8 +20,9 @@ There are 2 types of hypervisors.
   Example : Oracle Virtualbox
 ## INSTALLING UBUNTU IN A VIRTUAL MACHINE
 For installing ubuntu we need a Hypervisor(software that allows the management of virtual machines).
-To install ubuntu we will install **Oracle Virtualbox** which is an example of Type 2 Hypervisor.
+To install ubuntu we will install **Oracle Virtualbox** which is an example of Type 2 Hypervisor. 
 The link for the Hypervisor can be found [here](https://www.virtualbox.org/wiki/Downloads) or if that does not work here https://www.virtualbox.org/wiki/Downloads
+**(*It has a simple installation process just keep clicking next until it is finished and should not take more than 2-3 minutes.*)**
 
 ### Steps to install and configure your Hypervisor with Ubuntu
 * Click the new button to open a dialog and name your virtual machine and if you are not sure about what you are doing use **Ubuntu** which will automatically choose the type and the version for you.
@@ -64,5 +65,7 @@ Back to Oracle VM VirtualBox Manager, click on the new Ubuntu virtual machine an
 After the installation is completed the system will prompt for a restart.After the restart Ubuntu is ready to use.:+1:
 ### Virtualbox Extension Pack
 Even though it is **not necessary** Virtualbox Extension Pack can be useful in many ways.
+
 VirtualBox Extension Pack is a binary package intended to extend the functionality of VirtualBox. The Extension pack adds many functionalities to the hypervisor  such as USB 2.0 and USB 3.0 devices, VirtualBox RDP, disk encryption, NVMe and PXE boot for Intel cards.
+
  The link for that can be found [here](https://www.virtualbox.org/wiki/Downloads)
