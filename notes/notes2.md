@@ -25,7 +25,7 @@ The link for the Hypervisor can be found [here](https://www.virtualbox.org/wiki/
 
 ### Steps to install and configure your Hypervisor with Ubuntu
 * Click the new button to open a dialog and name your virtual machine and if you are not sure about what you are doing use **Ubuntu** which will automatically choose the type and the version for you.
-* 
+
 ![1st step](https://brb.nci.nih.gov/seqtools/images/ubuntu/image005.png)
 
 Secondly you need to adjust your **memory(RAM)** to be allocated for this virtual machine.If you are not sure leave it to recommended for now and change it later.
@@ -65,4 +65,4 @@ After the installation is completed the system will prompt for a restart.After t
 ###Virtualbox Extension Pack
 Even though it is **not necessary** Virtualbox Extension Pack can be useful in many ways.
 VirtualBox Extension Pack is a binary package intended to extend the functionality of VirtualBox. The Extension pack adds many functionalities to the hypervisor  such as USB 2.0 and USB 3.0 devices, VirtualBox RDP, disk encryption, NVMe and PXE boot for Intel cards.
-The link for that can be found [here](https://www.virtualbox.org/wiki/Downloads)
+ The link for that can be found [here](https://www.virtualbox.org/wiki/Downloads)
