@@ -3,7 +3,7 @@
 ## Which project will you be completing?
 Building a minecraft server
 
-# Why have you chosen this project?
+## Why have you chosen this project?
 Me as a Minecraft player, want to know how are the servers hosted and want to have more knowledge about the relationship of games with networking. I would want to choose more challenging projects but unfortunately, I currently do not have the time.
 
 ## What are the possible problems, roadblocks, or difficulties you anticipate during the process of completing the project?
