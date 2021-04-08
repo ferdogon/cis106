@@ -33,7 +33,7 @@ Package|Library|Dependency|Repository
 Packages are like boxes that contain software, config files etc.|Reusable code that can be used by other programs|Software needed as a foundation for other software|A large collection of Software.
 * **APT** is a set of tools for managing Debian Packages
 * **SNAPCRAFT** snaps are app packages for desktop, cloud and and IoT that are easy to instal, secure, cross-platform and dependency free.
-* **FLATPAK** is a next generation technology for packaging distributing and managing software in Linux.
+* **Flatpak** is a next generation technology for packaging distributing and managing software in Linux.
 ![APT,SNAP,FLATPAK PHOTO](Linux%20Workshop%20_%20Ubuntu%20Software%20installation%20cheat%20sheet.png)
 ## The Linux Filesystem
 **File System:** The way files are stored and organized.
@@ -41,12 +41,16 @@ Directory and folder mean the same thing.
 Unlike windows Linux always have a single file system tree, regardless of how many drives or storage devices are attached to the computer.
 Commonly used File Managers :computer:
 * **Nemo** 
+  
   ![Nemo](https://linuxhint.com/wp-content/uploads/2020/07/1-70.png)
+
 * **Gnome**
- ![](https://lh4.googleusercontent.com/zEofHtq0ZvGw9Jy8YuEEQIoNidPsl9h7QuhM5ommrJP5GHx9nCpMypaG21RT5Ckj72bGAtOFM7ZBGp3e5bVWw38CuwPYBMNGVi9jAPLK4y8Vrw2ppwR3Ka9kPiLMBfESwxAL)
+
+  ![Gnome](https://lh4.googleusercontent.com/zEofHtq0ZvGw9Jy8YuEEQIoNidPsl9h7QuhM5ommrJP5GHx9nCpMypaG21RT5Ckj72bGAtOFM7ZBGp3e5bVWw38CuwPYBMNGVi9jAPLK4y8Vrw2ppwR3Ka9kPiLMBfESwxAL)
   
 * **Thunar**
-  ![](https://lh3.googleusercontent.com/UdEXUQAamoieoIIXqRDQ0R8DE7JJGoH9u-y7n5Cah7SpeICBbaoxWYEz2yv2DUFAI0YbS9Sxxw1SUm_VGuaqGwUYgV3BzFEaiyJ8tZPucsKumuY-v7dX9zJ3zc5OcxPE96Tr)
+  
+  ![Thunar](https://lh3.googleusercontent.com/UdEXUQAamoieoIIXqRDQ0R8DE7JJGoH9u-y7n5Cah7SpeICBbaoxWYEz2yv2DUFAI0YbS9Sxxw1SUm_VGuaqGwUYgV3BzFEaiyJ8tZPucsKumuY-v7dX9zJ3zc5OcxPE96Tr)
 
 
 Think of the filesystem as a tree where every branch represents a directory(folder).
