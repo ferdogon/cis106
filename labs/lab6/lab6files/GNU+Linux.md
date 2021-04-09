@@ -8,7 +8,7 @@ Just like Windows, iOS, and Mac OS, GNU+Linux is an operating system. In fact, o
 * **Microsoft Windows** is a group of several proprietary graphical operating system families, all of which are developed and marketed by Microsoft.
 ![Windows logo](https://bit.ly/3fWOzYw)
 * **macOS** is a series of proprietary graphical operating systems developed and marketed by Apple Inc.
-![macOS logo](https://bit.ly/3uzwCn1)
+![macOS logo](https://bit.ly/2Q9cAAW)
 * **FreeBSD** is a free and open-source Unix-like operating system descended from the Berkeley Software Distribution (BSD), which was based on Research Unix.
 ![FreeBSD logo](https://bit.ly/3mB64iA)
 * **RISC OS** is a computer operating system originally designed by Acorn Computers Ltd in Cambridge, England.
