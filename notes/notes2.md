@@ -2,7 +2,7 @@
 ## WHAT IS VIRTUALIZATION?
 **Virtualization** is the replication of hardware to simulate a virtual machine inside a physical machine. It is basically using computer inside a computer as long as the hardware specifications are good enough to handle.
 
-###There are 2 general types of Virtualization ;
+### There are 2 general types of Virtualization ;
 * Server-side Virtualization:computer:
 * Client-Side virtualization:man:
 **Main difference between them is where the virtualization is taking place**:+1:
