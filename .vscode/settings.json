@@ -3,9 +3,14 @@
         "libclanapp"
     ],
     "cSpell.words": [
+        "GLOBBING",
         "Nemo",
         "SNAPCRAFT",
         "Thunar",
-        "minecraft"
+        "inode",
+        "minecraft",
+        "newbird",
+        "newfile",
+        "oggfiles"
     ]
 }
