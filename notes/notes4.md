@@ -59,6 +59,8 @@ It has the same usage as the mv command.
 ### HARD LINKS AND SOFT LINKS
 **HARD LINK EXPLANATION WITH GRAPH**
 ![HARD LINK](https://i1.wp.com/www.geekride.com/wp-content/uploads/hard_link.png?resize=384%2C419) 
+
+
 **SOFT LINK EXPLANATION WITH GRAPH**
 ![SOFT LINK](https://i2.wp.com/www.geekride.com/wp-content/uploads/soft_link.png?resize=384%2C419)
 
