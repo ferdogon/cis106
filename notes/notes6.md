@@ -62,11 +62,20 @@ file.txt --->> file.txt.bz2
 file.txt --->> file.txt.xz
 
 **Gzip Usage** 
+
 ![Gzip image](notes6.2.png)
+
+
 **bzip2 usage**
+
+
 ![Bzip2 image](notes6.3.png)
+
+
 **xz usage**
+
 ![xz image](notes6.4.png)
+
 
 ***File compression with zip,7zip and rar***
 **Zip** is an  archiving and compression utility.
@@ -75,7 +84,7 @@ file.txt --->> file.txt.xz
 ![Zip image](notes6.5.png)
 ![Rar image](notes6.6.png)
 
-## Linux File Permissions | File Ownership
+## Linux File Permissions | File Ownership.
 * A file can be owned only by one user and one group. 
 * ls -l shows you the file user owner and group owner.
 
