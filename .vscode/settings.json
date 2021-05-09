@@ -7,10 +7,12 @@
         "Nemo",
         "SNAPCRAFT",
         "Thunar",
+        "cpio",
         "inode",
         "minecraft",
         "newbird",
         "newfile",
-        "oggfiles"
+        "oggfiles",
+        "posix"
     ]
 }
