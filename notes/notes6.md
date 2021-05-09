@@ -91,7 +91,7 @@ file.txt --->> file.txt.xz
 **chown** command is used for changing group owner.
 Example and usage:
 * chown file.txt
-* 
+
 File permissions 
 ![filepermission](notes6.7.png)
 
