@@ -4,7 +4,7 @@
 To use a live usb flash drive to access his files he can install the PuppyLinux distro that is based on Debian. The url for the distro is [here](https://puppylinux.com/). The supported architectures can be found here [here](https://puppylinux.com/arch.html). Puppylinux uses relatively small size 300mb or even less which will help john with his issues.
 Logo|Based on | URL
 -----|-------|----|
-![puppylinux](https://assets.stickpng.com/images/58481550cef1014c0b5e496b.png)|Debian| https://puppylinux.com/
+![puppylinux](https://lbsitbytes2010.files.wordpress.com/2013/03/puppylinux1.jpg)|Debian| https://puppylinux.com/
 
 ## Scenario 2 
 The ubermix is an all-free, specially built, Linux-based operating system designed from the ground up with the needs of education in mind.  It has many software that are specifically designed for students such as math apps and games. Also there is Optional ubermix Parental Controls that provide content filtering/time controls.
